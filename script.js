@@ -1,5 +1,5 @@
 /*!
-	Petit fichier javascript
+	Petit fichier javascript - Git & GitHub - Partie 2 Activité
 	(c) 2018 Chrisentem
 */
 
